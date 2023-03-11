@@ -1,6 +1,7 @@
 ## Repository for android learning path at Bangkit Academy 2023
 This is a recap of the second module titled Android for Beginner.
 
+## Final Project Application View
 <p align="middle">
   <img src="FinalProjectView/1.jpg" alt="img text" width="45%">
   <img src="FinalProjectView/2.jpg" alt="img text" width="45%">
