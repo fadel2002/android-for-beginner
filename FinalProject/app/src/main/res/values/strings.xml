@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyXiaomi</string>
+    <string name="profile">Profile</string>
+    <string name="phone_name">Nama HP</string>
+    <string name="description">Deskripsi</string>
+    <string name="specification">Specification</string>
+    <string name="seller">Penjual</string>
+    <string name="buy">Beli Sekarang</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="cpu">CPU</string>
+    <string name="gpu">GPU</string>
+    <string name="share">Berbagi</string>
+    <string name="price">Harga</string>
+    <string name="user_name">Fadel Pramaputra Maulana</string>
+    <string name="user_email">fadelpm2002@gmail.com</string>
+    <string name="user_interest">Android Developer</string>
+    <string name="user_origin">Balikpapan, Indonesia</string>
+    <string name="user_instagram">Instagram @pmfadel</string>
+    <string name="visit_instagram">Instagram</string>
+    <string name="visit_github">Github</string>
+
+</resources>
